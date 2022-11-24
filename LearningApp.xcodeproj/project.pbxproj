@@ -24,6 +24,7 @@
 		E78D179D292DFE3800FC3F33 /* ContentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D179C292DFE3800FC3F33 /* ContentDetailView.swift */; };
 		E78D17A0292E025C00FC3F33 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E78D179F292E025C00FC3F33 /* AVKit.framework */; };
 		E78D17A2292E03A600FC3F33 /* ConstantFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D17A1292E03A600FC3F33 /* ConstantFile.swift */; };
+		E78D17A4292F417100FC3F33 /* CodeTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D17A3292F417100FC3F33 /* CodeTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		E78D179C292DFE3800FC3F33 /* ContentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentDetailView.swift; sourceTree = "<group>"; };
 		E78D179F292E025C00FC3F33 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
 		E78D17A1292E03A600FC3F33 /* ConstantFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantFile.swift; sourceTree = "<group>"; };
+		E78D17A3292F417100FC3F33 /* CodeTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 				E78D1798292DF52F00FC3F33 /* ContentView.swift */,
 				E78D179A292DFAFE00FC3F33 /* ContentViewRow.swift */,
 				E78D179C292DFE3800FC3F33 /* ContentDetailView.swift */,
+				E78D17A3292F417100FC3F33 /* CodeTextView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -344,6 +347,7 @@
 				E78D179D292DFE3800FC3F33 /* ContentDetailView.swift in Sources */,
 				E78D175E292B477600FC3F33 /* LearningApp.swift in Sources */,
 				E78D179B292DFAFE00FC3F33 /* ContentViewRow.swift in Sources */,
+				E78D17A4292F417100FC3F33 /* CodeTextView.swift in Sources */,
 				E78D178F292B48A000FC3F33 /* ContentModel.swift in Sources */,
 				E78D1795292B4D7200FC3F33 /* Models.swift in Sources */,
 				E78D17A2292E03A600FC3F33 /* ConstantFile.swift in Sources */,
