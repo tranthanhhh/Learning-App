@@ -11,6 +11,7 @@ struct HomeView: View {
     
     @EnvironmentObject var model: ContentModel
     
+    
     var body: some View {
         
         NavigationView {
@@ -32,6 +33,8 @@ struct HomeView: View {
                                         .onAppear(perform: {
                                             model.beginModule(module.id)
                                         }),
+                                    tag: module.id,
+                                    selection: $model.currentContentSelected,
                                     label: {
                                         
                                         // Learning Card

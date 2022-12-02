@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E73D5B792939CD71001E1402 /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73D5B782939CD71001E1402 /* RectangleCard.swift */; };
 		E78D175E292B477600FC3F33 /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D175D292B477600FC3F33 /* LearningApp.swift */; };
 		E78D1760292B477600FC3F33 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D175F292B477600FC3F33 /* HomeView.swift */; };
 		E78D1762292B477700FC3F33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E78D1761292B477700FC3F33 /* Assets.xcassets */; };
@@ -45,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E73D5B782939CD71001E1402 /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
 		E78D175A292B477600FC3F33 /* LearningApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E78D175D292B477600FC3F33 /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
 		E78D175F292B477600FC3F33 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				E78D179A292DFAFE00FC3F33 /* ContentViewRow.swift */,
 				E78D179C292DFE3800FC3F33 /* ContentDetailView.swift */,
 				E78D17A3292F417100FC3F33 /* CodeTextView.swift */,
+				E73D5B782939CD71001E1402 /* RectangleCard.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -350,6 +353,7 @@
 				E78D17A4292F417100FC3F33 /* CodeTextView.swift in Sources */,
 				E78D178F292B48A000FC3F33 /* ContentModel.swift in Sources */,
 				E78D1795292B4D7200FC3F33 /* Models.swift in Sources */,
+				E73D5B792939CD71001E1402 /* RectangleCard.swift in Sources */,
 				E78D17A2292E03A600FC3F33 /* ConstantFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
